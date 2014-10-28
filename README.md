@@ -29,7 +29,7 @@ Shift + Option + 7,8,9,0 writes ≤, <, >, ≥ respectively. This change is most
 
 ### ≈, ≠ on 6
 
-Thse keys could no longer be reached so I placed them on 6. It previously only duplicated symbols from the § key.
+These keys could no longer be reached so I placed them on 6. It previously only duplicated symbols from the § key.
 
 ### (Incomplete) Exponents on ^ + key
 
