@@ -31,6 +31,10 @@ Shift + Option + 7,8,9,0 writes ≤, <, >, ≥ respectively. This change is most
 
 These keys could no longer be reached so I placed them on 6. It previously only duplicated symbols from the § key.
 
+### ™ on <
+
+Having only ≤ avaiable on < seemed a bit weird, so I opted to replace it with the ™ symbol.
+
 ### (Incomplete) Exponents on ^ + key
 
 For example, pressing ^ and then 2 writes ². The reason this is incomplete is because I couldn't find superscript unicode codes for all characters. If you can find a complete list I would really appreciate if you sent it to me, or even better, add them to layout and make a pull request. :)
