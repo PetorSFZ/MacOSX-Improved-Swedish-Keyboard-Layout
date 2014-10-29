@@ -33,7 +33,7 @@ These keys could no longer be reached so I placed them on 6. It previously only 
 
 ### ™ on <
 
-Having only ≤ avaiable on < seemed a bit weird, so I opted to replace it with the ™ symbol.
+Having only ≤ available on < seemed a bit weird, so I opted to replace it with the ™ symbol.
 
 ### (Incomplete) Exponents on ^ + key
 
